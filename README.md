@@ -32,6 +32,3 @@ ConnectionSustainer is a Teamspeak client plugin that keeps you stay connected o
 | Disable Plugin | Disable reconnecting |
 
 - Buttons can be accessed by clicking on the 'Plugins' button on the top bar
-
-## Contributors
-- **EricZones** - Developer
